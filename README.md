@@ -4,7 +4,7 @@ Simple, multi-threaded, single-domain web crawler.
 
 ## Usage
 
-The recommended way of running digger is using !(Leiningen)[https://leiningen.org/)]. Once in the repository's root, run:
+The recommended way of running digger is using [Leiningen](https://leiningen.org/). Once in the repository's root, run:
 
 ```
 $ lein run http://rbaron.net
